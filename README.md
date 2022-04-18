@@ -1,7 +1,14 @@
 # video-to-point-cloud
-how to use: run the "main.py" script and follow the instructions
+how to use: 
 
+you need to install two python libraries: cv2 and pillow
 
+python3 -m pip install --upgrade Pillow
+python3 -m pip install opencv-python
+
+run the "main.py" script and follow the instructions
+
+_____________________________________________________________________________________________
 
 description and feature:
 
