@@ -3,7 +3,7 @@ import video_to_freeze_frame, img_process, pixel_to_coordinates
 import os
 import shutil
 
-folder_name = input('Enter the path to the file: ')
+folder_name = input('Enter the name of the folder to process the video: ')
 video_to_freeze_frame.create_folder(folder_name)
 
 video_path = input('Enter the full path of the video file: ')
